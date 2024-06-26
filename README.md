@@ -1,2 +1,2 @@
 # Projects
-This is my first Git Repository
+This is my first Python Django Project for a collage project 
